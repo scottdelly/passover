@@ -2,13 +2,13 @@ A Modern Passover
 ========
 
 ### What is this?
-A nontheistic haggadah. No "God." Instead we have the good stories, important quotes, and the four questions (plus one). Only takes 15 minutes to get through. This haggadah helps you get to your meal before the matzah balls get cold. 
+A nontheistic haggadah. No "God." Instead we have the good stories, important quotes, and the four questions (plus one). Only takes 15 minutes to get through. This haggadah helps you get to your meal before the matzoh balls get cold. 
 
 ### Who made this Haggadah?
 
 Myself and my amazing girlfriend, [Tina Vaughn](https://github.com/tinavn) [(check out her website)](http://www.tinamvaughn.com/) put this together last year. But we borrowed heavily from a few sources.
 
-This is a condensed version from the adaptation "[A Humaanist Modern Version Haggadah For Passover](http://www.eszter.com/Haggadah.pdf)" by [Eszter Hargittai](http://www.twitter.com/eszter). Her text is great, but we wanted to make it shorter and add in some of our favorite quotes. She got her version by adapting Machar's ["A HUMANIST HAGGADAH FOR PASSOVER"](http://www.machar.org/wp-content/uploads/2013/01/Machar-Humanistic-Haggadah.pdf) and ["Passover Haggadah for a Secular-Humanist Seder"](http://www.citycongregation.org/celebrations/sample-services/#passover) City Congregation for Humanistic Judaism, New York City.
+This is a condensed version from the adaptation "[A Humanist Modern Version Haggadah For Passover](http://www.eszter.com/Haggadah.pdf)" by [Eszter Hargittai](http://www.twitter.com/eszter). Her text is great, but we wanted to make it shorter and add in some of our favorite quotes. She got her version by adapting Machar's ["A HUMANIST HAGGADAH FOR PASSOVER"](http://www.machar.org/wp-content/uploads/2013/01/Machar-Humanistic-Haggadah.pdf) and ["Passover Haggadah for a Secular-Humanist Seder"](http://www.citycongregation.org/celebrations/sample-services/#passover) City Congregation for Humanistic Judaism, New York City.
 
 We got some prayers and songs from other places around the web. Quotes came via wikiquote or Google.
 
