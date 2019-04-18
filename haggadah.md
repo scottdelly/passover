@@ -22,6 +22,8 @@
 
 [Light candles]
 
+ברוך אתה א-דני א-להינו מלך העולם, אשר קדשנו במצותיו, וצונו להדליק נר של שבת קדש
+
 **Group**: *Baruch Atah Ado-nai, Elo-heinu Melech Ha-olam, Asher Kid’shanu B’mitzvotav V’tzivanu L’hadlik Ner Shel Yom Tov*
 
 
@@ -33,7 +35,9 @@
 
 **Group**: *Peace to everyone.* 
 
-בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן 
+
+בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן
+
 **Group**: *Baruch atah, Adonai Eloheinu, Melech haolam, borei p’ri hagafen.*
 
 ## The Story Of Passover
