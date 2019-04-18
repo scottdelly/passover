@@ -14,7 +14,7 @@
 
 **Reader 1**: We have come together this evening for many reasons. We are here because Spring is all around, the Earth is reborn, and it is a good time to celebrate with family and friends. 
 
-**Group:** *We are here because the struggle for human freedom never stops. We are here to remember all people who are still struggling for their freedom.* 
+**Group:** *We are here because the struggle for human freedom never stops. We are here to remember all people who are still struggling for their freedom.*
 
 **Reader 2**: We welcome the warmth and light of Spring. We rejoice in the warm light and rich blessings of this season. 
 
@@ -22,7 +22,7 @@
 
 [Light candles]
 
-**Group**: *BAH-ROOCH AH-TAH AH-DOH-NOI EH-LOH-HEH-NOO MEH-LECH HAH-OH-LAHM AH-SHER KEE-DEH-SHAH-NOO BEH-MITZ-VOH-TAHV VEH-TZEE-VAH-NOO LEH-HAD-LEEK NER SHEL YOHM TOHV*
+**Group**: *Baruch Atah Ado-nai, Elo-heinu Melech Ha-olam, Asher Kid’shanu B’mitzvotav V’tzivanu L’hadlik Ner Shel Yom Tov*
 
 
 ## Kiddush, the first cup of wine
@@ -33,8 +33,8 @@
 
 **Group**: *Peace to everyone.* 
 
-**Group**: *BAH-ROOCH AH-TAH AH-DOH-NOI EH-LOH-HEH-NOO MEH-LECH HAH-OH-LAHM BOH-REY PREE HAH-GAH-FEN.*
-
+בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן 
+**Group**: *Baruch atah, Adonai Eloheinu, Melech haolam, borei p’ri hagafen.*
 
 ## The Story Of Passover
 
@@ -56,22 +56,26 @@
 
 ## The Four Questions (+1)
 
-**Youngest Person**: MA NEESH-TA-NAH HA-LIE-LAH HA-ZEH MEE-KOHL HA-LAY LOHT — Why is this night different from all other nights? 
+מַה נִּשְׁתַּנָּה, הַלַּיְלָה הַזֶּה מִכָּל הַלֵּילוֹת
+**Youngest Person**: Mah nishtanah, ha-laylah ha-zeh, mi-kol ha-leylot — Why is this night different from all other nights? 
 
-1. SHE-B'-KHOL HA-LAY-LOHT A-NOO O-KH'-LEEN KHA-MAYTZ OO-MA- TSA. HA-LIE-LA HA-ZEH KOO-LOH MA-TSA. — On all other nights we eat either bread or matsah. Why, on this night, do we eat only matsah? 
+שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה הַלַּיְלָה הַזֶּה, כֻּלּוֹ מַצָּה 
+1. She-b'khol ha-leylot 'anu 'okhlin chameytz u-matzah, ha-laylah ha-zeh, kulo matzah — On all other nights we eat either bread or matzah. Why, on this night, do we eat only matzah? 
 
-2. SHE-B'-KHOL HA-LAY-LOHT A-NOO O-KH'-LEEN SH'-AR YIH'- RAH- KOHT. HA-LIE-LA HA-ZEH MA-ROR. — On all other nights we eat herbs of any kind. Why, on this night, do we eat only bitter herbs? 
+שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת הַלַּיְלָה הַזֶּה, מָרוֹר 
+2. She-b'khol ha-leylot 'anu 'okhlin sh'ar y'rakot, ha-laylah ha-zeh, maror — On all other nights we eat herbs of any kind. Why, on this night, do we eat only bitter herbs?
 
-3. SHE-B'KHOL HA-LAY-LOHT AYN A-NOO MAT-BEE-LEEN AFEE-LOO PA-AM EH-KHAT. HA-LIE-LA HA-ZEH SH'TAY F'-AHMEEM. — On all other nights, we do not dip our herbs even once. Why, on this night, do we dip them twice? 
+שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת הַלַּיְלָה הַזֶּה, שְׁתֵּי פְעָמִים
+3. She-b'khol ha-leylot 'eyn 'anu matbilin 'afilu pa'am 'achat, ha-laylah ha-zeh, shtey p'amim — On all other nights, we do not dip our herbs even once. Why, on this night, do we dip them twice? 
 
-4. SHE-B'KHOL HA-LAY-LOHT A-NOO O-KH'-LEEN BAYN YOSH'-VEEN OO-VAYN M'-SOO-BEEN. HA-LIE-LA HA-ZEH KOOLA-NOO M'-SOO-BEEN. — On all other nights, we eat either sitting or leaning. Why, on this night, do we eat while leaning? 
+שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין הַלַּיְלָה הַזֶּה, כֻּלָּנוּ מְסֻבִּין
+4. She-b'khol ha-leylot 'anu 'okhlin beyn yoshvin u-veyn m'subin, ha-laylah ha-zeh, kulanu m'subin — On all other nights, we eat either sitting or leaning. Why, on this night, do we eat while leaning? 
 
-5. The “plus one” question: The original Passover did not include an orange on the Seder plate. Why, on this night, do we have an orange on the Seder plate? 
-
+5. The original Passover did not include an orange on the Seder plate. Why, on this night, do we have an orange on the Seder plate? 
 
 ## Passover and Freedom
 
-**Reader 1**: At our Passover Seder, we celebrate the story of Moses and the people he led out of slavery 3000 years ago. We remember the struggle of all people to be free. 
+**Reader 1**: At our Passover Seder, we celebrate the story of Moses and Miriam and the people they led out of slavery 3000 years ago. We remember the struggle of all people to be free. 
 
 **Group**: *Let us remember that the thirst for freedom exists in all people. Many centuries after the time of Moses, African people were brought to America as slaves.*
 
@@ -123,19 +127,19 @@
 
 **Reader 1**: And now it is time to answer those four questions about what makes this night different from all other nights. 
 
-**Reader 1**: MATSAH--Why do we eat matsah? 
+**Reader 1**: Matzah--Why do we eat matzah? 
 
-**Group**: *Matsah is the symbol of our affliction and our freedom.*
+**Group**: *Matzah is the symbol of our affliction and our freedom.*
 
 **Reader 2**: Legend has it that when Moses and his followers fled Egypt, they moved so quickly that the bread they baked did not have time to rise. 
 
-**Reader 3**: However, scholars have noted that long before the Jews celebrated Passover, farmers of the Middle East celebrated KhagHa-matsot, the festival of unleavened bread, at this time of year. 
+**Reader 3**: However, scholars have noted that long before the Jews celebrated Passover, farmers of the Middle East celebrated KhagHa-matzot, the festival of unleavened bread, at this time of year. 
 
 This was a festival where unleavened bread was made from the new grain harvest that took place at this time of the year. 
 
-**Reader 4**: The old fermented dough was thrown out so that last year's grain would not be mixed with this year's. Therefore, the new season began with the eating of unleavened bread--matsah. Later on, the Jewish people incorporated this agricultural festival into the celebration of freedom and renewal we now call Passover. 
+**Reader 4**: The old fermented dough was thrown out so that last year's grain would not be mixed with this year's. Therefore, the new season began with the eating of unleavened bread--matzah. Later on, the Jewish people incorporated this agricultural festival into the celebration of freedom and renewal we now call Passover. 
 
-**Reader 2**: Let us all now eat a piece of matsah. 
+**Reader 2**: Let us all now eat a piece of matzah. 
 
 **Reader 1**: Maror--Why do we eat maror, the bitter herb? 
 
@@ -155,21 +159,21 @@ Let us all now take bitter herb and eat it.
 
 **Reader 3**: This question goes back to ancient times in Rome, when it was the custom for rich people to eat while lying on a couch leaning on one elbow as slaves and servants fed them. The Jewish people thought of this relaxed type of eating as a sign of freedom and prosperity, so they would lean to one side eating at the Seder on Passover, the festival of freedom. Today, we who are free eat while sitting up, even at Passover, but the question remains in the service as a reminder of how it was when our people longed for freedom.
 
-**Reader 1**: We have answered the four traditional questions, but there are still more questions to be answered. There are other special foods on our Seder plate: a sweet condiment (kharoset), a roast lamb's bone (z'ro-ah), and an egg (baytsa). Why are they here? 
+**Reader 1**: We have answered the four traditional questions, but there are still more questions to be answered. There are other special foods on our Seder plate: a sweet condiment (charoset), a roast lamb's bone (zeroah), and an egg (beitzah). Why are they here? 
 
-Kharoset--Why do we eat kharoset? 
+Charoset--Why do we eat charoset? 
 
 **Reader 2**: Apples, nuts, cinnamon, and wine are combined to make this sweet condiment. It is the color of clay or mortar. It reminds us of the bricks and mortar that the Israelites are said to have made when they built the Pharaohs' palaces and cities. At the same time, the taste of kharoset is sweet, and it reminds us of the sweetness of freedom. 
 
-**Reader 2**: Let us now all eat kharoset on a piece of matsah. 
+**Reader 2**: Let us now all eat kharoset on a piece of matzah. 
 
-**Reader 3**: There is an interesting tradition to take a piece of matsah and place upon it some bitter herb (maror) and some kharoset. As you eat this, the full meaning of Passover is felt through this combination. 
+**Reader 3**: There is an interesting tradition to take a piece of matzah and place upon it some bitter herb (maror) and some charoset. As you eat this, the full meaning of Passover is felt through this combination. 
 
-**Reader 1**: Z'roa means shankbone or thigh bone. This lamb's bone takes us back, once again, to ancient times to the shepherd's festival of Pesakh. It was celebrated at the time of the full moon in the month the lambs and goats were born. At that time, each family would slaughter a young lamb or goat for a Spring feast.
+**Reader 1**: Zeroah means shankbone or thigh bone. This lamb's bone takes us back, once again, to ancient times to the shepherd's festival of Pesach. It was celebrated at the time of the full moon in the month the lambs and goats were born. At that time, each family would slaughter a young lamb or goat for a Spring feast.
 
-**Reader 4**: Batysah--Why do we eat egg?
+**Reader 4**: Beitzah--Why do we eat egg?
 
-**Reader 1**: Baytsah is the egg of life. Each of us begins as an egg and grows to adulthood. The egg reminds us of our evolutionary past and the gifts of human inheritance. But the egg is fragile. It represents potential that can be destroyed. Left alone, its life would perish. 
+**Reader 1**: Beitzah is the egg of life. Each of us begins as an egg and grows to adulthood. The egg reminds us of our evolutionary past and the gifts of human inheritance. But the egg is fragile. It represents potential that can be destroyed. Left alone, its life would perish. 
 
 **Reader 4**: Growing life needs warmth and love and security, guidance, hope, and vision. To achieve their full potential, human beings need the support and encouragement of family and community. Eggs symbolize the fragility and interdependence of life. 
 
@@ -177,7 +181,7 @@ Kharoset--Why do we eat kharoset?
 
 **Reader 1**: The orange on the Seder plate is the result of an experience Professor Susannah Heschel had in the early 1980s. In her own words: 
 
-“In the early 1980s, the Hillel Foundation invited me to speak on a panel at Oberlin College. While on campus, I came across a Haggada that had been written by some Oberlin students to express feminist concerns. One ritual they devised was placing a crust of bread on the Seder plate, as a sign of solidarity with Jewish lesbians ("there's as much room for a lesbian in Judaism as there is for a crust of break on the Seder plate"). 
+“In the early 1980s, the Hillel Foundation invited me to speak on a panel at Oberlin College. While on campus, I came across a Haggada that had been written by some Oberlin students to express feminist concerns. One ritual they devised was placing a crust of bread on the Seder plate, as a sign of solidarity with Jewish lesbians ("there's as much room for a lesbian in Judaism as there is for a crust of bread on the Seder plate"). 
 
 At the next Passover, I placed an orange on our family's Seder plate. During the first part of the Seder, I asked everyone to take a segment of the orange, make the blessing over fruit, and eat it as a gesture of solidarity with Jewish lesbians and gay men, and others who are marginalized within the Jewish community (I mentioned widows in particular).
 
@@ -185,11 +189,12 @@ When lecturing, I often mentioned my custom as one of many new feminist rituals 
 
 My idea of an orange and my intention of affirming lesbians and gay men were transformed. Now the story circulates that a MAN stood up after a lecture I delivered and said to me, in anger, that a woman belongs on the bimah as much as an orange on the Seder plate. My idea, a woman's words, are attributed to a man, and the affirmation of lesbians and gay men is simply erased. Isn't that precisely what's happened over the centuries to women's ideas?”
 
-## Breaking the Matsah
 
-**Reader 2**: We have drunk the wine and tasted the special foods of the Passover celebration. They symbolize our attachment to the traditions of our culture, to freedom, and to life itself. Before we enjoy our feast, let us set aside the first of these symbols, the Matsah, to be the final food of this Passover supper, reminding us of why we are gathered here and what it is we celebrate. 
+## Breaking the Matzah
 
-[Set some matsah aside, eat it last after desert]
+**Reader 2**: We have drunk the wine and tasted the special foods of the Passover celebration. They symbolize our attachment to the traditions of our culture, to freedom, and to life itself. Before we enjoy our feast, let us set aside the first of these symbols, the Matzah, to be the final food of this Passover supper, reminding us of why we are gathered here and what it is we celebrate. 
+
+[Set some matzah aside, eat it last after desert]
 
 ## The third cup of wine
 
@@ -200,27 +205,53 @@ My idea of an orange and my intention of affirming lesbians and gay men were tra
 **Reader 5**: We drink the third cup of wine to those who were taken from us and to those who fought for freedom and life. 
 [Drink third cup of wine]
 
-**Reader 1**: Just as the food of our Passover supper has nourished our bodies, so the experience of the human spirit gives meaning to our lives. As a full expression of the hope and joy of this combination, let us sing the Passover song DIE-YAY-NOO. 
+**Reader 1**: Just as the food of our Passover supper has nourished our bodies, so the experience of the human spirit gives meaning to our lives. As a full expression of the hope and joy of this combination, we say Dayenu. 
 
-**Group sings:**
+**Around the table:**
+If He had brought us out from Egypt,
+and had not carried out judgments against them
+**All Say:** Dayenu
 
-*Eeem yash la-noo hay-roo-tay-noo. DIE-YAY-NOO.* 
+If He had carried out judgments against them
+and not against their idols
 
-*Eeem yash la-noo sim'khah-tay-noo. DIE-YAY-NOO.* 
+If He had destroyed their idols
+and had not smitten their first-born
 
-*Eeem yash la-noo tik'va-tay-noo. DIE-YAY-NOO.* 
+If He had smitten their first-born
+and had not given us their wealth
 
-Translation:
+If He had given us their wealth
+and had not split the sea for us
 
-If we only had our freedom. DIE-YAY-NOO.
+If He had split the sea for us
+and had not taken us through it on dry land
 
-If we only had our Seder. DIE-YAY-NOO. 
+If He had taken us through the sea on dry land
+and had not drowned our oppressors in it
 
-If we only had our hope. DIE-YAY-NOO. 
+If He had drowned our oppressors in it,
+and had not supplied our needs in the desert for forty years
 
-["DIE-YAY-NOO" means: It would have been sufficient.] 
+If He had supplied our needs in the desert for forty years
+and had not fed us the manna
 
-## The fourth cup of Elijah
+If He had fed us the manna,
+and had not given us the Shabbat
+
+If He had given us the Shabbat,
+and had not brought us before Mount Sinai
+
+If He had brought us before Mount Sinai,
+and had not given us the Torah	v'lo
+
+If He had given us the Torah,
+and had not brought us into the land of Israel
+
+If He had brought us into the land of Israel,
+and not built for us the Holy Temple
+
+## The cup of Elijah
 
 **Reader 1**: Let us all fill our wine glasses. 
 
@@ -251,5 +282,5 @@ We will now raise our glasses and say:
 
 ## Let's Eat
 
-**Reader 1**: Now it is time for our leisurely, and scrumptious Pesakh meal. 
+**Reader 1**: Now it is time for our leisurely, and scrumptious Pesach meal. 
 
