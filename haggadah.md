@@ -56,26 +56,37 @@
 
 ## The Four Questions (+1)
 
+**Youngest Person**: 
+```
 מַה נִּשְׁתַּנָּה, הַלַּיְלָה הַזֶּה מִכָּל הַלֵּילוֹת
-**Youngest Person**: Mah nishtanah, ha-laylah ha-zeh, mi-kol ha-leylot — Why is this night different from all other nights? 
-
+Mah nishtanah, ha-laylah ha-zeh, mi-kol ha-leylot
+Why is this night different from all other nights? 
+```
+1:
+```
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה הַלַּיְלָה הַזֶּה, כֻּלּוֹ מַצָּה 
-
-1. She-b'khol ha-leylot 'anu 'okhlin chameytz u-matzah, ha-laylah ha-zeh, kulo matzah — On all other nights we eat either bread or matzah. Why, on this night, do we eat only matzah? 
-
+She-b'khol ha-leylot 'anu 'okhlin chameytz u-matzah, ha-laylah ha-zeh, kulo matzah
+On all other nights we eat either bread or matzah. Why, on this night, do we eat only matzah? 
+```
+2:
+```
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת הַלַּיְלָה הַזֶּה, מָרוֹר 
-
-2. She-b'khol ha-leylot 'anu 'okhlin sh'ar y'rakot, ha-laylah ha-zeh, maror — On all other nights we eat herbs of any kind. Why, on this night, do we eat only bitter herbs?
-
+She-b'khol ha-leylot 'anu 'okhlin sh'ar y'rakot, ha-laylah ha-zeh, maror
+On all other nights we eat herbs of any kind. Why, on this night, do we eat only bitter herbs?
+```
+3:
+```
 שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת הַלַּיְלָה הַזֶּה, שְׁתֵּי פְעָמִים
-
-3. She-b'khol ha-leylot 'eyn 'anu matbilin 'afilu pa'am 'achat, ha-laylah ha-zeh, shtey p'amim — On all other nights, we do not dip our herbs even once. Why, on this night, do we dip them twice? 
-
+She-b'khol ha-leylot 'eyn 'anu matbilin 'afilu pa'am 'achat, ha-laylah ha-zeh, shtey p'amim
+On all other nights, we do not dip our herbs even once. Why, on this night, do we dip them twice? 
+```
+4:
+```
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין הַלַּיְלָה הַזֶּה, כֻּלָּנוּ מְסֻבִּין
+She-b'khol ha-leylot 'anu 'okhlin beyn yoshvin u-veyn m'subin, ha-laylah ha-zeh, kulanu m'subin
+On all other nights, we eat either sitting or leaning. Why, on this night, do we eat while leaning? 
+```
 
-4. She-b'khol ha-leylot 'anu 'okhlin beyn yoshvin u-veyn m'subin, ha-laylah ha-zeh, kulanu m'subin — On all other nights, we eat either sitting or leaning. Why, on this night, do we eat while leaning? 
-
-5. The original Passover did not include an orange on the Seder plate. Why, on this night, do we have an orange on the Seder plate? 
 
 ## Passover and Freedom
 
