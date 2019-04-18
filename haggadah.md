@@ -60,15 +60,19 @@
 **Youngest Person**: Mah nishtanah, ha-laylah ha-zeh, mi-kol ha-leylot — Why is this night different from all other nights? 
 
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה הַלַּיְלָה הַזֶּה, כֻּלּוֹ מַצָּה 
+
 1. She-b'khol ha-leylot 'anu 'okhlin chameytz u-matzah, ha-laylah ha-zeh, kulo matzah — On all other nights we eat either bread or matzah. Why, on this night, do we eat only matzah? 
 
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת הַלַּיְלָה הַזֶּה, מָרוֹר 
+
 2. She-b'khol ha-leylot 'anu 'okhlin sh'ar y'rakot, ha-laylah ha-zeh, maror — On all other nights we eat herbs of any kind. Why, on this night, do we eat only bitter herbs?
 
 שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת הַלַּיְלָה הַזֶּה, שְׁתֵּי פְעָמִים
+
 3. She-b'khol ha-leylot 'eyn 'anu matbilin 'afilu pa'am 'achat, ha-laylah ha-zeh, shtey p'amim — On all other nights, we do not dip our herbs even once. Why, on this night, do we dip them twice? 
 
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין הַלַּיְלָה הַזֶּה, כֻּלָּנוּ מְסֻבִּין
+
 4. She-b'khol ha-leylot 'anu 'okhlin beyn yoshvin u-veyn m'subin, ha-laylah ha-zeh, kulanu m'subin — On all other nights, we eat either sitting or leaning. Why, on this night, do we eat while leaning? 
 
 5. The original Passover did not include an orange on the Seder plate. Why, on this night, do we have an orange on the Seder plate? 
@@ -208,48 +212,76 @@ My idea of an orange and my intention of affirming lesbians and gay men were tra
 **Reader 1**: Just as the food of our Passover supper has nourished our bodies, so the experience of the human spirit gives meaning to our lives. As a full expression of the hope and joy of this combination, we say Dayenu. 
 
 **Around the table:**
+```
 If He had brought us out from Egypt,
 and had not carried out judgments against them
+```
 **All Say:** Dayenu
-
-If He had carried out judgments against them
+```
+If He had carried out judgments against them,
 and not against their idols
-
-If He had destroyed their idols
+```
+**All Say:** Dayenu
+```
+If He had destroyed their idols,
 and had not smitten their first-born
-
-If He had smitten their first-born
+```
+**All Say:** Dayenu
+```
+If He had smitten their first-born,
 and had not given us their wealth
-
-If He had given us their wealth
+```
+**All Say:** Dayenu
+```
+If He had given us their wealth,
 and had not split the sea for us
-
-If He had split the sea for us
+```
+**All Say:** Dayenu
+```
+If He had split the sea for us,
 and had not taken us through it on dry land
-
-If He had taken us through the sea on dry land
+```
+**All Say:** Dayenu
+```
+If He had taken us through the sea on dry land,
 and had not drowned our oppressors in it
-
+```
+**All Say:** Dayenu
+```
 If He had drowned our oppressors in it,
 and had not supplied our needs in the desert for forty years
-
-If He had supplied our needs in the desert for forty years
+```
+**All Say:** Dayenu
+```
+If He had supplied our needs in the desert for forty years,
 and had not fed us the manna
-
+```
+```
 If He had fed us the manna,
 and had not given us the Shabbat
-
+```
+**All Say:** Dayenu
+```
 If He had given us the Shabbat,
 and had not brought us before Mount Sinai
-
+```
+**All Say:** Dayenu
+```
 If He had brought us before Mount Sinai,
 and had not given us the Torah	v'lo
-
+```
+**All Say:** Dayenu
+```
 If He had given us the Torah,
 and had not brought us into the land of Israel
-
+```
+**All Say:** Dayenu
+```
 If He had brought us into the land of Israel,
 and not built for us the Holy Temple
+```
+**All Say:** Dayenu
+
 
 ## The cup of Elijah
 
