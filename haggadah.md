@@ -43,7 +43,7 @@
 
 בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם בּוֹרֵא פְּרִי הַגָּפֶן
 
-**Together**: *Baruch atah, Adonai Eloheinu, Melech haolam, borei p’ri hagafen.*
+**Together**: *Baruch Atah Ado-nai, Elo-heinu Melech Ha-olam,, borei p’ri hagafen.*
 
 [Drink the first cup of wine]
 
@@ -312,7 +312,7 @@ and not built for us the Holy Temple
 
 **Simple Child**: The passover meal begins and ends with matzah, the unleavened bread.
 
-**Together**: *Baruch atah Adonai, Eloheynu Melech haolam, Hamotzi lechem min haaretz.*
+**Together**: *Baruch Atah Ado-nai, Elo-heinu Melech Ha-olam, Ha-motzi lechem min ha-aretz.*
 
 [Everyone eats the matzah together]
 
@@ -358,7 +358,7 @@ and not built for us the Holy Temple
 
 ## The cup of Elijah
 
-**Host**: [Filll the wine cups and a cup for Elijah and Ruth]
+**Host**: [Filll the wine cups and cups for Elijah and Ruth]
 
 **Simple Child**:  At Passover we fill a cup with wine for Elijah and open the door to welcome him to our seder. Elijah symbolizes our hope for the Messianic age, when the world will be perfected, and all people will live in harmony and peace.
 
