@@ -45,11 +45,15 @@
 
 **Together**: *Baruch atah, Adonai Eloheinu, Melech haolam, borei p’ri hagafen.*
 
+[Drink the first cup of wine]
+
 # Urhatz – Wash
 
 **Host**: [Each participant should wash their hands, even if only symbolically]
 
 # Karpas — Spring vegetable
+
+**Host**: [Make sure everyone gets some Karpas]
 
 **Rabbi**: Any vegetable that is not bitter may be eaten. Common vegetables used are celery, parsley, onion, or potato. 
 
@@ -57,9 +61,13 @@
 
 **Wise Child**: It's also a reminder of the baby boys cast in the Nile, and the tears shed by the slaves.
 
+[Dip the karpas in salt water and eat]
+
 # Yahatz — Divide, Breaking the middle matzah
 
-**Guide**:  Break the middle matzah into two parts. It should be broken by hand rather than cut. Wrap the larger part in napkin and save for the conclusion of the seder.
+**Host**: [Break the middle matzah]
+
+**Guide**:  We break the middle matzah into two parts. It should be broken by hand rather than cut. Wrap the larger part in napkin and save for the conclusion of the seder.
 
 **Rabbi**: We can't finish the seder without the middle matzah. It's our dessert!
 
@@ -184,7 +192,7 @@ Why, on this night, do we eat while leaning?
 
 ## Dayenu
 
-**Rabbi**: Dayenu is about gratitude and thanksgiving. We acknowledge 15 major Biblical events and proclaim after each event: “It would have been enough!”
+**Rabbi**: Dayenu is about gratitude and thanksgiving. We acknowledge 15 major biblical events and proclaim after each event: “It would have been enough!”
 
 **All around the table**:
 ```
@@ -294,19 +302,37 @@ and not built for us the Holy Temple
 
 # Rohtza — Wash
 
-**Guide**: Ready to eat, the hands are washed before the meal, as is required at any meal.
+**Guide**: Ready to eat, the hands are washed before the meal.
+
+[Everyone washes hands if they want to]
 
 # Motzi Matzah — Eating Matzah
 
-**Guide**: The first food at the meal is the matzah, the unleavened bread. The usual blessing over bread, Hamotzi, is recited. However, before eating the matzah, a second blessing thanking God for the requirement to eat matzah is recited.
+**Host**: [Pass the matzah around, and everyone breaks off a bit]
+
+**Simple Child**: The passover meal begins and ends with matzah, the unleavened bread.
+
+**Together**: *Baruch atah Adonai, Eloheynu Melech haolam, Hamotzi lechem min haaretz.*
+
+[Everyone eats the matzah together]
 
 # Maror — Bitter Herbs
 
-**Guide**: Small pieces of horseradish are dipped into haroset (a sweet paste symbolic of mortar) to indicate that overemphasis on material things results in bitterness. Some people mix ground horseradish with charoset. Do not recline while eating the marror.
+**Host**: [Make sure everyone has access to the charoset]
+
+**Rebellious Child**: Small pieces of horseradish are dipped into charoset (a sweet paste symbolic of mortar) to indicate that overemphasis on material things results in bitterness. Some people mix ground horseradish with charoset. 
+
+**Rabbi**: We don't recline while eating the marror because it's a reminder of slavery.
+
+[Everyone eats maror with charoset]
 
 # Korekh — Hillel Sandwich
 
-**Rabbi**: In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb, matzah, and bitter herbs) together so that each mouthful contained all three. Thus the symbols of slavery and liberation were intermingled. Now that we do not have the Paschal lamb, we eat just the matzah and horseradish in a “Hillel sandwich.” No special blessing is said, but we do read the words recalling Hillel’s practice.
+**Host**: [Make sure everone has some matzah, charoset, and chazeret (the bitter vegetable)]
+
+**Wise Child**: In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb, matzah, and bitter herbs) together so that each mouthful contained all three. Thus the symbols of slavery and liberation were intermingled. Now that we do not have the lamb, we eat just the matzah and horseradish in a “Hillel sandwich.”
+
+[Eat a Hillel sandwich]
 
 ## The third cup of wine
 
@@ -322,12 +348,13 @@ and not built for us the Holy Temple
 
 # Shulhan Orekh — Meal
 
+[Let's Eat!]
 
 # Tzafun — Dessert
 
 **Rabbi**: This reminds us of the passover sacrifice made at the temple. Like that sacrifice, it is eaten at the end of the meal, when we have already satisfied our hunger because we do not eat this for sustenance.
 
-# Barekh — Grace After Meals (Birkat Hamazon)
+# Barekh — Grace After Meals
 
 ## The cup of Elijah
 
