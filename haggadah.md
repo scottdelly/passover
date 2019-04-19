@@ -71,34 +71,37 @@ Break the middle matzah into two parts. It should be broken by hand rather than 
 ## The Seder Plate
 
 **All around the table**
-```
-Zeroah - A Roasted Shank Bone
-The roasted shank bone of a lamb reminds Jews of the 10th plague in Egypt when all firstborn Egyptians were killed. During this plague, the Israelites marked the doorposts of their homes with the blood of a lamb so that when Death passed over Egypt, it would pass over their homes.
-```
-```
-Beitzah - A hard-boiled Egg
-During the time of the Temple, a festival sacrifice was made and the roasted egg represents that meat offering. Additionally, hard boiled eggs were traditionally the first food served to mourners after a funeral, and thus the egg serves as a symbol of mourning for the loss of the two Temples.
-```
-```
-Maror - Bitter Herbs
-Because the Israelites were slaves in Egypt, Jews eat bitter herbs to remind them of the harshness of servitude.
-```
-```
-Charoset
-The word charoset comes from the Hebrew word cheres, meaning clay, and it represents the mortar that the Israelites were forced to use while they built structures for their Egyptian taskmasters. 
-```
-```
-Karpas - Fresh, raw vegetable
-The vegetation of spring
-```
-```
-Chazeret - Bitter Vegetable
-This piece of the seder plate also symbolizes the bitterness of slavery and fulfills the requirement called korech, which is when the maror is eaten together with matzah
-```
-```
-Orange
-The orange represents inclusiveness in Judaism, specifically women, and the LGBTQ+ community
-```
+> Zeroah - A Roasted Shank Bone
+> 
+> The roasted shank bone of a lamb reminds Jews of the 10th plague in Egypt when all firstborn Egyptians were killed. 
+> During this plague, the Israelites marked the doorposts of their homes with the blood of a lamb so that when Death passed over Egypt, it would pass over their homes.
+
+> Beitzah - A hard-boiled Egg
+> 
+> During the time of the Temple, a festival sacrifice was made and the roasted egg represents that meat offering.
+> Additionally, hard boiled eggs were traditionally the first food served to mourners after a funeral, and thus the egg serves as a symbol of mourning for the loss of the two Temples.
+
+> Maror - Bitter Herbs
+> 
+> Because the Israelites were slaves in Egypt, Jews eat bitter herbs to remind them of the harshness of servitude.
+
+> Charoset
+> 
+> The word charoset comes from the Hebrew word cheres, meaning clay.
+> It represents the mortar that the Israelites were forced to use while they built structures for their Egyptian taskmasters. 
+
+> Karpas - Fresh, raw vegetable
+> 
+> The vegetation of spring.
+
+> Chazeret - Bitter Vegetable
+> 
+> This piece of the seder plate also symbolizes the bitterness of slavery.
+> It also fulfills the requirement called korech, which is when the maror is eaten together with matzah
+
+> Orange
+> 
+> The orange represents inclusiveness in Judaism, specifically women, and the LGBTQ+ community
 
 ## The Four Questions (+1)
 
@@ -109,8 +112,10 @@ Mah nishtanah, ha-laylah ha-zeh, mi-kol ha-leylot
 Why is this night different from all other nights? 
 
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין חָמֵץ וּמַצָּה הַלַּיְלָה הַזֶּה, כֻּלּוֹ מַצָּה 
-She-b'khol ha-leylot 'anu 'okhlin chameytz u-matzah, ha-laylah ha-zeh, kulo matzah
-On all other nights we eat either bread or matzah. Why, on this night, do we eat only matzah? 
+She-b'khol ha-leylot 'anu 'okhlin chameytz u-matzah,
+ha-laylah ha-zeh, kulo matzah
+On all other nights we eat either bread or matzah. 
+Why, on this night, do we eat only matzah? 
 ```
 
 **Simple Child**: Legend has it that when Moses and his followers fled Egypt, they moved so quickly that the bread they baked did not have time to rise. 
@@ -122,8 +127,10 @@ On all other nights we eat either bread or matzah. Why, on this night, do we eat
 **Youngest Person**: 
 ```
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין שְׁאָר יְרָקוֹת הַלַּיְלָה הַזֶּה, מָרוֹר 
-She-b'khol ha-leylot 'anu 'okhlin sh'ar y'rakot, ha-laylah ha-zeh, maror
-On all other nights we eat herbs of any kind. Why, on this night, do we eat only bitter herbs?
+She-b'khol ha-leylot 'anu 'okhlin sh'ar y'rakot,
+ha-laylah ha-zeh, maror
+On all other nights we eat herbs of any kind.
+Why, on this night, do we eat only bitter herbs?
 ```
 
 **Simple Child**: Tradition says that this root is to remind us of the time of our slavery. We force ourselves to taste pain so that we may more readily value pleasure.
@@ -133,8 +140,10 @@ On all other nights we eat herbs of any kind. Why, on this night, do we eat only
 **Youngest Person**: 
 ```
 שֶׁבְּכָל הַלֵּילוֹת אֵין אָנוּ מַטְבִּילִין אֲפִילוּ פַּעַם אֶחָת הַלַּיְלָה הַזֶּה, שְׁתֵּי פְעָמִים
-She-b'khol ha-leylot 'eyn 'anu matbilin 'afilu pa'am 'achat, ha-laylah ha-zeh, shtey p'amim
-On all other nights, we do not dip our herbs even once. Why, on this night, do we dip them twice? 
+She-b'khol ha-leylot 'eyn 'anu matbilin 'afilu pa'am 'achat,
+ha-laylah ha-zeh, shtey p'amim
+On all other nights, we do not dip our herbs even once.
+Why, on this night, do we dip them twice? 
 ```
 **Simple Child**: The first time, the salty taste reminds us of the tears we cried when we were slaves. 
 
@@ -143,8 +152,10 @@ On all other nights, we do not dip our herbs even once. Why, on this night, do w
 **Youngest Person**: 
 ```
 שֶׁבְּכָל הַלֵּילוֹת אָנוּ אוֹכְלִין בֵּין יוֹשְׁבִין וּבֵין מְסֻבִּין הַלַּיְלָה הַזֶּה, כֻּלָּנוּ מְסֻבִּין
-She-b'khol ha-leylot 'anu 'okhlin beyn yoshvin u-veyn m'subin, ha-laylah ha-zeh, kulanu m'subin
-On all other nights, we eat either sitting or leaning. Why, on this night, do we eat while leaning? 
+She-b'khol ha-leylot 'anu 'okhlin beyn yoshvin u-veyn m'subin,
+ha-laylah ha-zeh, kulanu m'subin
+On all other nights, we eat either sitting or leaning.
+Why, on this night, do we eat while leaning? 
 ```
 
 **Rebelious Child**: This goes back to ancient times in Rome, when it was the custom for rich people to eat while lying on a couch leaning on one elbow as slaves and servants fed them. 
@@ -180,12 +191,12 @@ On all other nights, we eat either sitting or leaning. Why, on this night, do we
 If He had brought us out from Egypt,
 and had not carried out judgments against them
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had carried out judgments against them,
 and not against their idols
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had destroyed their idols,
 and had not smitten their first-born
@@ -195,17 +206,17 @@ and had not smitten their first-born
 If He had smitten their first-born,
 and had not given us their wealth
 ```
-**Together:** Dayenu
+**Together:** Dayenu!
 ```
 If He had given us their wealth,
 and had not split the sea for us
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had split the sea for us,
 and had not taken us through it on dry land
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had taken us through the sea on dry land,
 and had not drowned our oppressors in it
@@ -215,37 +226,37 @@ and had not drowned our oppressors in it
 If He had drowned our oppressors in it,
 and had not supplied our needs in the desert for forty years
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had supplied our needs in the desert for forty years,
 and had not fed us the manna
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had fed us the manna,
 and had not given us the Shabbat
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had given us the Shabbat,
 and had not brought us before Mount Sinai
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had brought us before Mount Sinai,
 and had not given us the Torah	v'lo
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had given us the Torah,
 and had not brought us into the land of Israel
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 ```
 If He had brought us into the land of Israel,
 and not built for us the Holy Temple
 ```
-**Together**: Dayenu
+**Together**: Dayenu!
 
 ## The second cup of wine
 
@@ -263,23 +274,21 @@ and not built for us the Holy Temple
 
 **Reader 1**: Passover is a celebration of Life. Despite many centuries of destruction our hearts are tempered by the knowledge that the world can also be good. We have endured slavery and genocide. But we have also enjoyed freedom and power. 
 
-**Together**: *We have learned to endure. We have learned to progress.*
-
 **Reader 2**: It is said that long ago, during a time of famine, the ancient Israelites traveled to Egypt. According to this legend, the Israelites at that time were all in a single family - Jacob and his children. 
  
 **Reader 3**: One of Jacob's sons was Joseph. He was so wise that the ruler of Egypt - the Pharaoh - made Joseph a leader over all the people of Egypt.
  
-**Reader 2**: But as time passed, another Pharaoh became the ruler of Egypt. He did not remember about Joseph and his wise leadership. He became fearful of the growing Isrealite population. This new Pharaoh turned the Israelites into slaves.
+**Reader 4**: But as time passed, another Pharaoh became the ruler of Egypt. He did not remember about Joseph and his wise leadership. He became fearful of the growing Isrealite population. This new Pharaoh turned the Israelites into slaves.
  
-**Reader 3**: After the Israelites were in Egypt for over 400 years, a man arose among them. He demanded that Pharaoh let his people go! Many times he risked his life to insist on the freedom of his people, until he finally succeeded. 
+**Reader 5**: After the Israelites were in Egypt for over 400 years, a man arose among them. He demanded that Pharaoh let his people go! Many times he risked his life to insist on the freedom of his people, until he finally succeeded. 
  
-**Reader 4**: At our Passover Seder, we celebrate the story of Moses and the people he led out of slavery 3000 years ago. We celebrate the struggle of all people to be free.  Throughout the centuries, the story of Moses and the exodus from Egypt has inspired Jews and non-Jews in times of persecution and hardship. 
+**Reader 6**: At our Passover Seder, we celebrate the story of Moses and the people he led out of slavery 3000 years ago. We celebrate the struggle of all people to be free.  Throughout the centuries, the story of Moses and the exodus from Egypt has inspired Jews and non-Jews in times of persecution and hardship. 
 
-**Reader 4**: The thirst for freedom exists in all people. Many centuries after the time of Moses, African people were brought to America as slaves. The freedom we celebrate tonight is not only freedom from slavery. It is also the freedom to live in peace, with dignity and with hope for a bright future.
+**Reader 7**: The thirst for freedom exists in all people. Many centuries after the time of Moses, African people were brought to America as slaves. The freedom we celebrate tonight is not only freedom from slavery. It is also the freedom to live in peace, with dignity and with hope for a bright future.
 
-**Reader 2**: This evening, as we celebrate our own freedom, be aware of the struggle for freedom in many other parts of the world. 
+**Reader 8**: This evening, as we celebrate our own freedom, be aware of the struggle for freedom in many other parts of the world. 
 
-**Reader 4**: “When I despair, I remember that all through history the ways of truth and love have always won. There have been tyrants, and murderers, and for a time they can seem invincible, but in the end they always fall. Think of it--always.” 
+**Reader 9**: “When I despair, I remember that all through history the ways of truth and love have always won. There have been tyrants, and murderers, and for a time they can seem invincible, but in the end they always fall. Think of it--always.” 
 
 — Gandhi
 
