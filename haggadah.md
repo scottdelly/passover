@@ -352,6 +352,6 @@ and not built for us the Holy Temple
 
 # Nirtzah — Conclusion 
 
-**Guide**: With the traditional formula, the seder is concluded, and the we say
+**Guide**: I hope we all had a great Seder, it's time to bring this to a close.
 
 **Together**: Next Year in Jerusalem!
