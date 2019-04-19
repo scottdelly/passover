@@ -198,73 +198,60 @@ Why, on this night, do we eat while leaning?
 ```
 If He had brought us out from Egypt,
 and had not carried out judgments against them
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had carried out judgments against them,
 and not against their idols
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had destroyed their idols,
 and had not smitten their first-born
-```
-**Together**: Dayenu
-```
+Together: Dayenu!
+
 If He had smitten their first-born,
 and had not given us their wealth
-```
-**Together:** Dayenu!
-```
+Together: Dayenu!
+
 If He had given us their wealth,
 and had not split the sea for us
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had split the sea for us,
 and had not taken us through it on dry land
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had taken us through the sea on dry land,
 and had not drowned our oppressors in it
-```
-**Together**: Dayenu
-```
+Together: Dayenu!
+
 If He had drowned our oppressors in it,
 and had not supplied our needs in the desert for forty years
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had supplied our needs in the desert for forty years,
 and had not fed us the manna
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had fed us the manna,
 and had not given us the Shabbat
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had given us the Shabbat,
 and had not brought us before Mount Sinai
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had brought us before Mount Sinai,
 and had not given us the Torah	v'lo
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had given us the Torah,
 and had not brought us into the land of Israel
-```
-**Together**: Dayenu!
-```
+Together: Dayenu!
+
 If He had brought us into the land of Israel,
 and not built for us the Holy Temple
+Together: Dayenu!
 ```
-**Together**: Dayenu!
 
 ## The second cup of wine
 
