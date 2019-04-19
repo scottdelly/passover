@@ -69,7 +69,8 @@
 
 ## The Seder Plate
 
-**All around the table**
+**All around the table**:
+
 > Zeroah - A Roasted Shank Bone
 > 
 > The roasted shank bone of a lamb reminds Jews of the 10th plague in Egypt when all firstborn Egyptians were killed. 
@@ -185,7 +186,7 @@ Why, on this night, do we eat while leaning?
 
 **Rabbi**: Dayenu is about gratitude and thanksgiving. We acknowledge 15 major Biblical events and proclaim after each event: “It would have been enough!”
 
-**Around the table**:
+**All around the table**:
 ```
 If He had brought us out from Egypt,
 and had not carried out judgments against them
