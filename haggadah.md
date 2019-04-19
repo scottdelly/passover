@@ -59,7 +59,9 @@
 
 # Yahatz — Divide, Breaking the middle matzah
 
-**Guide**:  Break the middle matzah into two parts. It should be broken by hand rather than cut since such is the way of the poor. Take larger part, wrap it in napkin and save for the conclusion of the meal. Try — but not too hard — to keep it from being stolen by the children because it must be available for the end of the meal.
+**Guide**:  Break the middle matzah into two parts. It should be broken by hand rather than cut. Wrap the larger part in napkin and save for the conclusion of the seder.
+
+**Rabbi**: We can't finish the seder without the middle matzah. It's our dessert!
 
 # Magid — Narrate
 
@@ -322,7 +324,7 @@ and not built for us the Holy Temple
 
 # Tzafun — Dessert
 
-**Guide**: Eaten in memory of the Pesach sacrifice which was served at the end of the meal. All efforts should be made to assure that the afikomen is eaten before midnight.
+**Rabbi**: This reminds us of the passover sacrifice made at the temple. Like that sacrifice, it is eaten at the end of the meal, when we have already satisfied our hunger because we do not eat this for sustenance.
 
 # Barekh — Grace After Meals (Birkat Hamazon)
 
