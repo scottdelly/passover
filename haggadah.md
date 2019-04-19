@@ -28,8 +28,7 @@
 
 **Together**: *Baruch Atah Ado-nai, Elo-heinu Melech Ha-olam, Asher Kid’shanu B’mitzvotav V’tzivanu L’hadlik Ner Shel Yom Tov*
 
-## Kadesh — Kiddush, the first cup of wine
-### Blessing the wine at the start of the meal
+# Kadesh — Kiddush, the first cup of wine
 
 (It is preferred that each participant's cup should be poured by someone else to symbolize the majesty of the evening, as though each participant had a servant. The cup should be filled to the brim)
 
@@ -41,21 +40,21 @@
 
 **Together**: *Baruch atah, Adonai Eloheinu, Melech haolam, borei p’ri hagafen.*
 
-## Urhatz – Wash, Hand Washing
+# Urhatz – Wash, Hand Washing
 
 [Each participant should wash their hands if they have not]
 
-## Karpas — Spring vegetable
+# Karpas — Spring vegetable
 Any vegetable that is not bitter may be eaten. Common vegetables used are celery, parsley, onion, or potato. Dipped in salt water for purification and seasoning they remind us of the vegetation of spring, or the baby boys cast in the Nile, or the tears shed by the slaves.
 
-## Yahatz — Divide, Breaking the middle matzah
+# Yahatz — Divide, Breaking the middle matzah
 Break the middle matzah into two parts. It should be broken by hand rather than cut since such is the way of the poor. Take larger part, wrap it in napkin and save for the conclusion of the meal. Try — but not too hard — to keep it from being stolen by the children because it must be available for the end of the meal.
 
-## Magid — Narrate
+# Magid — Narrate
 
 **Host**: [Fill the wine cups]
 
-### The Seder Plate
+## The Seder Plate
 ```
 Zeroah: A Roasted Bone
 A cooked thigh or neck of a chicken, broiled a little over the fire, comes in memory of the Paschal lamb. We call it z'roah (arm) to remind us of the outstretched hand with which G-d delivered the Jewish people from bondage.
@@ -173,6 +172,8 @@ On all other nights, we eat either sitting or leaning. Why, on this night, do we
 
 **Reader 1**: May there be peace, kindness, happiness, and compassion. 
 
+## Dayenu
+
 **Reader 1**: Just as the food of our Passover supper will nourish our bodies, so the experience of the human spirit gives meaning to our lives. As a full expression of the hope and joy of this combination, we say Dayenu. 
 
 **Around the table:**
@@ -287,16 +288,16 @@ and not built for us the Holy Temple
 
 **Reader 4**: “When I despair, I remember that all through history the ways of truth and love have always won. There have been tyrants, and murderers, and for a time they can seem invincible, but in the end they always fall. Think of it--always.” — Gandhi
 
-## Rohtza — Wash
+# Rohtza — Wash
 Ready to eat, the hands are washed before the meal, as is required at any meal.
 
-## Motzi Matzah — Eating Matzah
+# Motzi Matzah — Eating Matzah
 The first food at the meal is the matzah, the unleavened bread. The usual blessing over bread, Hamotzi, is recited. However, before eating the matzah, a second blessing thanking God for the requirement to eat matzah is recited.
 
-## Maror — Bitter Herbs
+# Maror — Bitter Herbs
 Small pieces of horseradish are dipped into haroset (a sweet paste symbolic of mortar) to indicate that overemphasis on material things results in bitterness. Some people mix ground horseradish with charoset. Do not recline while eating the marror.
 
-## Korekh — Hillel Sandwich
+# Korekh — Hillel Sandwich
 In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb, matzah, and bitter herbs) together so that each mouthful contained all three. Thus the symbols of slavery and liberation were intermingled. Now that we do not have the Paschal lamb, we eat just the matzah and horseradish in a “Hillel sandwich.” No special blessing is said, but we do read the words recalling Hillel’s practice.
 
 ## The third cup of wine
@@ -311,15 +312,15 @@ In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb
 
 [Drink third cup of wine]
 
-## Shulhan Orekh — Meal
+# Shulhan Orekh — Meal
 The joyous feasting gives us the feeling of human fellowship in harmony with God. Many have the custom to begin the meal by eating the egg from the Seder Plate. No roast meat may be eaten this night, not even roasted chicken. Even pot roast is forbidden. But roast fish and roasted eggs are permitted. In some places the custom is to eat eggs, but this is not obligatory. Some people's custom is not to eat any dish that involves dipping in a sauce, so as to fulfill precisely what it says in the Four Questions, that we dip food twice this night (and no more).
 
 If someone falls asleep in the middle of the meal, even just for a few minutes, he must wash his hands again when he wakes up (without a brocha), but he may still eat the Afikomen, and he need not make another Hamotzi over it. It is important not to doze off against the pillow in which the afikomen is hidden, so as to avoid any question of the afikomen having become like food that was put under a bed.
 
-## Tzafun — Dessert
+# Tzafun — Dessert
 Now the afikomen. Either someone has “stolen” it, or parents can hide the afikoman when it is first put aside (Step 4) and let the children look for it during the meal to win a prize. Eaten in memory of the Pesach sacrifice which was served at the end of the meal. All efforts should be made to assure that the afikomen is eaten before midnight.
 
-## Barekh — Grace After Meals (Birkat Hamazon)
+# Barekh — Grace After Meals (Birkat Hamazon)
 This is the usual “bentschen,” grace after meals, including, of course, thankfulness for the Passover holiday. Fill the cup before this grace and drink the third cup at its conclusion, with the usual “bore p’ri hagafen” blessing.
 
 At this point in the seder, we open the door For Elijah, who by tradition is the forerunner of the Messiah, the harbinger of hope. Sing “Eliyahu Ha-navi.”
@@ -340,8 +341,8 @@ It was customary during the Passover Seder to open the door of the house for Eli
 
 [Drink 4th Glass Of Wine]
 
-## Hallel — Psalms of Praise
+# Hallel — Psalms of Praise
 The rest of the evening is given over to hymns and songs. The Hallel is completed, and all join in singing songs: Adir Hu, Had Gadya, etc.
 
-## Nirtzah — Conclusion 
+# Nirtzah — Conclusion 
 With the traditional formula, the seder is concluded, and the we sing L’Shana HaBa’ah B’Y’rushalayim [Next Year in Jerusalem].
