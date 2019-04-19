@@ -33,7 +33,7 @@
 
 # Kadesh — Kiddush, the first cup of wine
 
-**Rabbi**: It is preferred that everyones's cup should be poured by someone else to symbolize the majesty of the evening, as though each participant had a servant. Each cup should be filled to the brim as a symbol of the abundance of the season!
+**Rabbi**: It is preferred that everyones's cup should be poured by someone else to symbolize the majesty of the evening. Each cup should be filled to the brim as a symbol of the abundance of the season!
 
 **Host**: [Make sure the wine cups are filled]
 
