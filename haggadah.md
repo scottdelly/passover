@@ -2,18 +2,13 @@
 
 *For those who want to remember, for those who want to take stock, for those who want to be thankful, and for those who want to get to the meal faster.*
 
-> This Haggadah was compiled by [Mischa Nachtigal](http://twitter.com/mischa) and [Tina Vaughn](http://www.tinamvaughn.com/) in 2013. But we borrowed heavily from a few sources. You can read [a quick post about the process of putting it together](https://medium.com/this-matters-to-me/761efa25d839). 
-
-> This is a condensed version from the adaptation "[A Humaanist Modern Version Haggadah For Passover](http://www.eszter.com/Haggadah.pdf)" by [Eszter Hargittai](http://www.twitter.com/eszter). Her text is great, but we wanted to make it shorter and add in some of our favorite quotes. She got her version by adapting Machar's ["A HUMANIST HAGGADAH FOR PASSOVER"](http://www.machar.org/wp-content/uploads/2013/01/Machar-Humanistic-Haggadah.pdf) and ["Passover Haggadah for a Secular-Humanist Seder"](http://www.citycongregation.org/celebrations/sample-services/#passover) City Congregation for Humanistic Judaism, New York City.
-
-> We got some prayers and songs from other places around the web. Quotes came via wikiquote or Google.
-
-> If you see anything wrong, let me know by telling me [on twitter](https://twitter.com/mischa).
+> Orignially inspired by https://medium.com/this-matters-to-me/761efa25d839
 
 > Additional information from: http://www.neveh.org/pesach/seder.html#kadesh https://www.myjewishlearning.com/article/how-to-conduct-a-seder/
 
-
 ## How to read this Haggadah
+
+- The four children are all grown up and giving their own seder.
 
 - Readers and actors names are in **Bold Text**
 
@@ -55,14 +50,16 @@
 **Host**: [Each participant should wash their hands, even if only symbolically]
 
 # Karpas — Spring vegetable
-Any vegetable that is not bitter may be eaten. Common vegetables used are celery, parsley, onion, or potato. 
+
+**Rabbi**: Any vegetable that is not bitter may be eaten. Common vegetables used are celery, parsley, onion, or potato. 
 
 **Simple Child**: We dip the Karpas into the salt water to remind us that the Jews crossed the Red Sea
 
 **Wise Child**: It's also a reminder of the baby boys cast in the Nile, and the tears shed by the slaves.
 
 # Yahatz — Divide, Breaking the middle matzah
-Break the middle matzah into two parts. It should be broken by hand rather than cut since such is the way of the poor. Take larger part, wrap it in napkin and save for the conclusion of the meal. Try — but not too hard — to keep it from being stolen by the children because it must be available for the end of the meal.
+
+**Guide**:  Break the middle matzah into two parts. It should be broken by hand rather than cut since such is the way of the poor. Take larger part, wrap it in napkin and save for the conclusion of the meal. Try — but not too hard — to keep it from being stolen by the children because it must be available for the end of the meal.
 
 # Magid — Narrate
 
@@ -293,16 +290,20 @@ and not built for us the Holy Temple
 — Gandhi
 
 # Rohtza — Wash
-Ready to eat, the hands are washed before the meal, as is required at any meal.
+
+**Guide**: Ready to eat, the hands are washed before the meal, as is required at any meal.
 
 # Motzi Matzah — Eating Matzah
-The first food at the meal is the matzah, the unleavened bread. The usual blessing over bread, Hamotzi, is recited. However, before eating the matzah, a second blessing thanking God for the requirement to eat matzah is recited.
+
+**Guide**: The first food at the meal is the matzah, the unleavened bread. The usual blessing over bread, Hamotzi, is recited. However, before eating the matzah, a second blessing thanking God for the requirement to eat matzah is recited.
 
 # Maror — Bitter Herbs
-Small pieces of horseradish are dipped into haroset (a sweet paste symbolic of mortar) to indicate that overemphasis on material things results in bitterness. Some people mix ground horseradish with charoset. Do not recline while eating the marror.
+
+**Guide**: Small pieces of horseradish are dipped into haroset (a sweet paste symbolic of mortar) to indicate that overemphasis on material things results in bitterness. Some people mix ground horseradish with charoset. Do not recline while eating the marror.
 
 # Korekh — Hillel Sandwich
-In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb, matzah, and bitter herbs) together so that each mouthful contained all three. Thus the symbols of slavery and liberation were intermingled. Now that we do not have the Paschal lamb, we eat just the matzah and horseradish in a “Hillel sandwich.” No special blessing is said, but we do read the words recalling Hillel’s practice.
+
+**Rabbi**: In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb, matzah, and bitter herbs) together so that each mouthful contained all three. Thus the symbols of slavery and liberation were intermingled. Now that we do not have the Paschal lamb, we eat just the matzah and horseradish in a “Hillel sandwich.” No special blessing is said, but we do read the words recalling Hillel’s practice.
 
 ## The third cup of wine
 
@@ -320,10 +321,10 @@ In ancient times, the Talmudic scholar Hillel ate the three symbolic foods (lamb
 
 
 # Tzafun — Dessert
-Now the afikomen. Either someone has “stolen” it, or parents can hide the afikoman when it is first put aside (Step 4) and let the children look for it during the meal to win a prize. Eaten in memory of the Pesach sacrifice which was served at the end of the meal. All efforts should be made to assure that the afikomen is eaten before midnight.
+
+**Guide**: Eaten in memory of the Pesach sacrifice which was served at the end of the meal. All efforts should be made to assure that the afikomen is eaten before midnight.
 
 # Barekh — Grace After Meals (Birkat Hamazon)
-
 
 ## The cup of Elijah
 
@@ -344,7 +345,11 @@ Now the afikomen. Either someone has “stolen” it, or parents can hide the af
 [Drink 4th Glass Of Wine]
 
 # Hallel — Psalms of Praise
-The rest of the evening is given over to hymns and songs. The Hallel is completed, and all join in singing songs: Adir Hu, Had Gadya, etc.
+
+**Guide**: The rest of the evening is given over to hymns and songs. The Hallel is completed, and all join in singing songs: Adir Hu, Had Gadya, etc.
 
 # Nirtzah — Conclusion 
-With the traditional formula, the seder is concluded, and the we sing L’Shana HaBa’ah B’Y’rushalayim [Next Year in Jerusalem].
+
+**Guide**: With the traditional formula, the seder is concluded, and the we say
+
+**Together**: Next Year in Jerusalem!
